@@ -2,7 +2,7 @@
 [http://www.slideshare.net/jorgedortiz/7-stages-of-unit-testing](http://www.slideshare.net/jorgedortiz/7-stages-of-unit-testing)
 
 ### Testing Android Security - José Manuel Ortega
-[http://www.slideshare.net/jmoc25/testing-android-security]{http://www.slideshare.net/jmoc25/testing-android-security}
+[http://www.slideshare.net/jmoc25/testing-android-security](http://www.slideshare.net/jmoc25/testing-android-security)
 
 ### One app to rule them all: Methodologies, Tools & Tricks to achieve an effective white label model – Daniel Gallego
 [https://speakerdeck.com/danielgallegovico/droidcon-spain-2105-one-app-to-rule-them-all-methodologies-tools-and-tricks-to-achieve-an-effective-white-label-model
