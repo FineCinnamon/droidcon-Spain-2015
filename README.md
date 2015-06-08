@@ -65,5 +65,5 @@
 [http://raycoarana.com/misc/concurrency-with-promise-style-droidcon-2015/](http://raycoarana.com/misc/concurrency-with-promise-style-droidcon-2015/)
 
 ### Nuevos lenguajes en desarrollo Android – Javier Gamarra
-???????????
+[https://speakerdeck.com/nhpatt/new-android-languages](https://speakerdeck.com/nhpatt/new-android-languages)
 
